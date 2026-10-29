@@ -1,0 +1,11 @@
+Command exited with code 1.
+
+Command output:
+C:\Users\S : The term 'C:\Users\S' is not recognized as the name of a cmdlet, function, script file, or operable 
+program. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:87
++ ... $env:_TMP; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; C:\Users\S Nandhak ...
++                                                        ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (C:\Users\S:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

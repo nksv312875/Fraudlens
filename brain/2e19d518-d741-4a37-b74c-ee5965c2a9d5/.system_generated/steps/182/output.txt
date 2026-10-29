@@ -1,0 +1,13 @@
+Task: 2e19d518-d741-4a37-b74c-ee5965c2a9d5/task-173
+Status: RUNNING
+Log: file:///C:/Users/S%20Nandhakumar/.gemini/antigravity/brain/2e19d518-d741-4a37-b74c-ee5965c2a9d5/.system_generated/tasks/task-173.log
+Log output:
+<truncated 2539 lines>
+ers\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\integrate\\_odepack.cp312-win_amd64.pyd'
+# extension module 'scipy.integrate._odepack' executed from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\integrate\\_odepack.cp312-win_amd64.pyd'
+import 'scipy.integrate._odepack' # <_frozen_importlib_external.ExtensionFileLoader object at 0x000002BCF1612540>
+import 'scipy.integrate._odepack_py' # <_frozen_importlib_external.SourceFileLoader object at 0x000002BCF1612210>
+# C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\integrate\__pycache__\_quadpack_py.cpython-312.pyc matches C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\integrate\_quadpack_py.py
+# code object from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\integrate\\__pycache__\\_quadpack_py.cpython-312.pyc'
+
+Last progress: 0s ago

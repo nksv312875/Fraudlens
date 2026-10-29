@@ -1,0 +1,19 @@
+Command exited with code 1.
+
+Command output:
+Stop-Process : Cannot find a process with the process identifier 24684.
+At line:1 char:399
++ ... .exe -s http://127.0.0.1:8000/; Stop-Process -Id $p.Id -Force; Write- ...
++                                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (24684:Int32) [Stop-Process], ProcessCommandException
+    + FullyQualifiedErrorId : NoProcessFoundForGivenId,Microsoft.PowerShell.Commands.StopProcessCommand
+ 
+API Health:
+HTML Preview:
+You cannot call a method on a null-valued expression.
+At line:1 char:507
++ ...  Preview:"; Write-Output $html.Substring(0, [Math]::Min(150, $html.Le ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 

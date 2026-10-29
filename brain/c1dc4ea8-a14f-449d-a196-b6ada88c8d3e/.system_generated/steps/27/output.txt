@@ -1,0 +1,21 @@
+Command exited with code 0.
+
+Command output:
+
+Name: fastapi
+Version: 0.162.0
+Name: uvicorn
+Version: 0.54.0
+Name: scikit-learn
+Version: 1.9.1
+Name: networkx
+Version: 3.7
+Name: pandas
+Version: 2.2.3
+* Neither the name of the copyright holder nor the names of its
+Name: numpy
+Version: 2.5.4
+Name: joblib
+Version: 1.6.0
+
+

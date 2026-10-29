@@ -1,0 +1,4 @@
+Command exited with code 0.
+
+Command output:
+api.index imported successfully! App title: FraudLens AI - Explainable Financial Risk & Fraud Analytics

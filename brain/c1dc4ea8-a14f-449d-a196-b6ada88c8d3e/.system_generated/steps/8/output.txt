@@ -1,0 +1,10 @@
+Command exited with code 1.
+
+Command output:
+At line:1 char:164
++ ... dhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend" && python  ...
++                                                                ~~
+The token '&&' is not a valid statement separator in this version.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : InvalidEndOfLine
+ 

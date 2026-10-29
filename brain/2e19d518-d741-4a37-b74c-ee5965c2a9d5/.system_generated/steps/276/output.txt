@@ -1,0 +1,15 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\model_store
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        29-10-2026     19:02            820 evaluation_metrics.json                                              
+-a----        29-10-2026     19:02         171548 fraudlens_predictor.joblib                                           
+-a----        29-10-2026     19:02           1488 model_meta.json                                                      
+
+

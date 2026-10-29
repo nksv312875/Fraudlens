@@ -1,0 +1,8 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend
+plugins: anyio-4.15.1
+collecting ... collected 11 items
+
+tests/test_api_and_ml.py::test_api_health 

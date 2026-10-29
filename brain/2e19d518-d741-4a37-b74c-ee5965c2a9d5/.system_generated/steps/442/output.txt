@@ -1,0 +1,14 @@
+Command exited with code 1.
+
+Command output:
+--- API HEALTH RESPONSE ---
+{"status":"healthy","service":"FraudLens AI Prediction Engine","model_version":"v1.2.0-champion","database":"SQLite (Active)","synthetic_demo_badge":true}
+--- SPA HTML PREVIEW ---
+Exception calling "Substring" with "2" argument(s): "Index and length must refer to a location within the string.
+Parameter name: length"
+At line:1 char:484
++ ... EVIEW ---"; Write-Output $html.Substring(0, [Math]::Min(200, $html.Le ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException
+    + FullyQualifiedErrorId : ArgumentOutOfRangeException
+ 

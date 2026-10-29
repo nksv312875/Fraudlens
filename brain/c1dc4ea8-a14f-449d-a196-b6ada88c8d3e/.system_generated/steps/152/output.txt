@@ -1,0 +1,1 @@
+Made 1 replacement in C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\.gitignore starting at line 32 (+1/-0 lines).

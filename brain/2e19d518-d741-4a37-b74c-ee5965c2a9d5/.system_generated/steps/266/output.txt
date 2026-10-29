@@ -1,0 +1,27 @@
+Command exited with code 1.
+
+Command output:
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\ml\train.py", line 353, in <module>
+    train_and_evaluate_pipeline()
+  File "C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\ml\train.py", line 192, in train_and_evaluate_pipeline
+    df = pd.read_csv(data_path)
+         ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1026, in read_csv
+    return _read(filepath_or_buffer, kwds)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 620, in _read
+    parser = TextFileReader(filepath_or_buffer, **kwds)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1620, in __init__
+    self._engine = self._make_engine(f, self.engine)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\parsers\readers.py", line 1880, in _make_engine
+    self.handles = get_handle(
+                   ^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pandas\io\common.py", line 873, in get_handle
+    handle = open(
+             ^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'data/synthetic_transactions.csv'

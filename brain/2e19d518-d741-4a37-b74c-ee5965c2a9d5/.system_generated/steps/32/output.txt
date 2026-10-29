@@ -1,0 +1,9 @@
+Command exited with code 1.
+
+Command output:
+
+FullName                                                           
+--------                                                           
+C:\Users\S Nandhakumar\AppData\Roaming\Antigravity\bin\agy-node.cmd
+
+

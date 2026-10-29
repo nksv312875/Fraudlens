@@ -1,0 +1,8 @@
+Command exited with code 0.
+
+Command output:
+Python 3.12.10
+pip 25.0.1 from C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\pip (python 3.12)
+Package Version
+------- -------
+pip     25.0.1

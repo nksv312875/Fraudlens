@@ -1,0 +1,10 @@
+Command exited with code 1.
+
+Command output:
+where.exe : INFO: Could not find files for the given pattern(s).
+At line:1 char:87
++ ... $env:_TMP; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; where.exe git 2>&1
++                                                        ~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO: Could not...ven pattern(s).:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

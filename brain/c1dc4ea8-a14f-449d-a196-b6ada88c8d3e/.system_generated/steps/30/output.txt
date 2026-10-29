@@ -1,0 +1,13 @@
+Command exited with code 0.
+
+Command output:
+Name: pytest
+Version: 9.2.0
+Summary: pytest: simple powerful testing with Python
+Home-page: https://docs.pytest.org/en/latest/
+Author: Brianna Laugher, Bruno Oliveira, Floris Bruynooghe, Freya Bruhin, Holger Krekel, Others (See AUTHORS), Ronny Pfannschmidt
+Author-email: 
+License-Expression: MIT
+Location: C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages
+Requires: colorama, iniconfig, packaging, pluggy, pygments
+Required-by: 

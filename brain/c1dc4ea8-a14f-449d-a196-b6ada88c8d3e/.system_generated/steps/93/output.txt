@@ -1,0 +1,11 @@
+Command exited with code 0.
+
+Command output:
+
+Name                       SizeMB
+----                       ------
+evaluation_metrics.json         0
+fraudlens_predictor.joblib   0.17
+model_meta.json                 0
+
+

@@ -1,0 +1,30 @@
+Command exited with code 1.
+
+Command output:
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\db\init_data.py", line 85, in <module>
+    initialize_and_seed_data()
+  File "C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\db\init_data.py", line 25, in initialize_and_seed_data
+    predictor = joblib.load(MODEL_PATH)
+                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\joblib\numpy_pickle.py", line 755, in load
+    obj = _unpickle(
+          ^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\joblib\numpy_pickle.py", line 632, in _unpickle
+    obj = unpickler.load()
+          ^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\pickle.py", line 1256, in load
+    dispatch[key[0]](self)
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\pickle.py", line 1581, in load_stack_global
+    self.append(self.find_class(module, name))
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\pickle.py", line 1624, in find_class
+    return _getattribute(sys.modules[module], name)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\pickle.py", line 326, in _getattribute
+    raise AttributeError("Can't get attribute {!r} on {!r}"
+AttributeError: Can't get attribute 'FraudLensPredictor' on <module 'app.db.init_data' from 'C:\\Users\\S Nandhakumar\\.gemini\\antigravity\\scratch\\fraudlens-ai\\backend\\app\\db\\init_data.py'>
+[1/4] Connecting to SQLite database...
+[2/4] Loading trained predictor and dataset...

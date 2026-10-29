@@ -1,0 +1,23 @@
+Task: 2e19d518-d741-4a37-b74c-ee5965c2a9d5/task-56
+Status: RUNNING
+Log: file:///C:/Users/S%20Nandhakumar/.gemini/antigravity/brain/2e19d518-d741-4a37-b74c-ee5965c2a9d5/.system_generated/tasks/task-56.log
+Log output:
+<truncated 61 lines>
+il>=2.9.0->pandas)
+  Downloading six-1.17.0-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting anyio<5,>=4.0.0 (from starlette>=0.46.0->fastapi)
+  Downloading anyio-4.15.1-py3-none-any.whl.metadata (4.7 kB)
+Collecting idna>=2.8 (from anyio<5,>=4.0.0->starlette>=0.46.0->fastapi)
+  Downloading idna-3.20-py3-none-any.whl.metadata (7.2 kB)
+Downloading fastapi-0.162.0-py3-none-any.whl (148 kB)
+Downloading uvicorn-0.54.0-py3-none-any.whl (87 kB)
+Downloading pydantic-2.14.1-py3-none-any.whl (488 kB)
+Downloading pydantic_core-2.50.1-cp312-cp312-win_amd64.whl (2.2 MB)
+   ---------------------------------------- 2.2/2.2 MB 3.1 MB/s eta 0:00:00
+Downloading pandas-3.1.0-cp312-cp312-win_amd64.whl (10.7 MB)
+   ---------------------------------------- 10.7/10.7 MB 3.4 MB/s eta 0:00:00
+Downloading numpy-2.5.4-cp312-cp312-win_amd64.whl (12.6 MB)
+   ---------------------------------------- 12.6/12.6 MB 2.8 MB/s eta 0:00:00
+Downloading scikit_learn-1.9.1-cp312-cp312-win_amd64.whl (8.3 MB)
+
+Last progress: 0s ago

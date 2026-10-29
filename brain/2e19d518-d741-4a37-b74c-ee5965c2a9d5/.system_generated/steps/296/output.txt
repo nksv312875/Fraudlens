@@ -1,0 +1,4 @@
+Command exited with code 0.
+
+Command output:
+DB Summary: {'total_analyzed': 2474, 'high_risk_cases': 79, 'uncertain_cases': 3, 'lower_risk_cases': 2392, 'confirmed_fraud_feedback': 1, 'investigator_overrides': 0}

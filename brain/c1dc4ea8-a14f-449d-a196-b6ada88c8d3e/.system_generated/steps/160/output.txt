@@ -1,0 +1,12 @@
+Command exited with code 0.
+
+Command output:
+
+Name               Length
+----               ------
+assets                   
+index.html         1203  
+index-0V_IabHt.js  706661
+index-G_S3VRqG.css 30292 
+
+

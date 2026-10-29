@@ -1,0 +1,21 @@
+Command exited with code 0.
+
+Command output:
+Collecting httpx
+  Downloading httpx-0.28.1-py3-none-any.whl.metadata (7.1 kB)
+Requirement already satisfied: anyio in c:\users\s nandhakumar\appdata\local\programs\python\python312\lib\site-packages (from httpx) (4.15.1)
+Collecting certifi (from httpx)
+  Downloading certifi-2026.10.23-py3-none-any.whl.metadata (2.5 kB)
+Collecting httpcore==1.* (from httpx)
+  Downloading httpcore-1.0.9-py3-none-any.whl.metadata (21 kB)
+Requirement already satisfied: idna in c:\users\s nandhakumar\appdata\local\programs\python\python312\lib\site-packages (from httpx) (3.20)
+Requirement already satisfied: h11>=0.16 in c:\users\s nandhakumar\appdata\local\programs\python\python312\lib\site-packages (from httpcore==1.*->httpx) (0.16.0)
+Requirement already satisfied: typing_extensions>=4.16.0 in c:\users\s nandhakumar\appdata\local\programs\python\python312\lib\site-packages (from anyio->httpx) (4.16.0)
+Downloading httpx-0.28.1-py3-none-any.whl (73 kB)
+Downloading httpcore-1.0.9-py3-none-any.whl (78 kB)
+Downloading certifi-2026.10.23-py3-none-any.whl (135 kB)
+Installing collected packages: certifi, httpcore, httpx
+Successfully installed certifi-2026.10.23 httpcore-1.0.9 httpx-0.28.1
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.2
+[notice] To update, run: C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\python.exe -m pip install --upgrade pip

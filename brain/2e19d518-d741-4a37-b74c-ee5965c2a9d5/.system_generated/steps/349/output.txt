@@ -1,0 +1,4 @@
+Command exited with code 0.
+
+Command output:
+Score: 56.6 Prob: 0.566 Category: HIGH RISK Raw: {'amount': 750.0, 'log_amount': 6.621405651764134, 'amount_to_hist_avg': 3.012, 'account_age_days': 840.0, 'failed_attempts_last_24h': 0.0, 'is_foreign_country': 0.0, 'merchant_category_risk': 0.65, 'device_reuse_count': 0.0, 'is_device_new_to_account': 0.0, 'tx_frequency_1h': 0.0, 'burst_amount_1h': 0.0}

@@ -1,0 +1,9 @@
+Command exited with code 1.
+
+Command output:
+No installed Python found!
+INFO: Could not find files for the given pattern(s).
+INFO: Could not find files for the given pattern(s).
+INFO: Could not find files for the given pattern(s).
+INFO: Could not find files for the given pattern(s).
+INFO: Could not find files for the given pattern(s).

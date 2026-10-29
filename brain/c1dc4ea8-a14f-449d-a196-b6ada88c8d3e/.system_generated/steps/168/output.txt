@@ -1,0 +1,25 @@
+Command exited with code 0.
+
+Command output:
+
+Name                          
+----                          
+api                           
+backend                       
+data                          
+frontend                      
+model_store                   
+.env.example                  
+.gitignore                    
+ARCHITECTURE.md               
+DEMO_SCRIPT.md                
+LIMITATIONS_AND_FUTURE_WORK.md
+MODEL_EVALUATION_REPORT.md    
+package.json                  
+README.md                     
+requirements.txt              
+run_app.py                    
+vercel.json                   
+VERCEL_DEPLOYMENT_GUIDE.md    
+
+

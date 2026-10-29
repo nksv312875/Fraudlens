@@ -1,0 +1,11 @@
+Command exited with code 1.
+
+Command output:
+git : The term 'git' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:167
++ ... \S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai"; git status  ...
++                                                               ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

@@ -1,0 +1,11 @@
+Command exited with code 0.
+
+Command output:
+
+Name                       SizeMB
+----                       ------
+dataset_metadata.json           0
+fraudlens.db                 1.85
+synthetic_transactions.csv   0.26
+
+

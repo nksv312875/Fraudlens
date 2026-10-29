@@ -1,0 +1,5 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\python.exe
+All packages OK

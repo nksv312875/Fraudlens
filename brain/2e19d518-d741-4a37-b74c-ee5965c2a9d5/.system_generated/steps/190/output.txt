@@ -1,0 +1,13 @@
+Task: 2e19d518-d741-4a37-b74c-ee5965c2a9d5/task-173
+Status: RUNNING
+Log: file:///C:/Users/S%20Nandhakumar/.gemini/antigravity/brain/2e19d518-d741-4a37-b74c-ee5965c2a9d5/.system_generated/tasks/task-173.log
+Log output:
+<truncated 2841 lines>
+sgraph._validation' # <_frozen_importlib_external.SourceFileLoader object at 0x000002BCF1B0A8A0>
+# extension module 'scipy.sparse.csgraph._shortest_path' executed from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_shortest_path.cp312-win_amd64.pyd'
+import 'scipy.sparse.csgraph._shortest_path' # <_frozen_importlib_external.ExtensionFileLoader object at 0x000002BCF1B0A1B0>
+# extension module 'scipy.sparse.csgraph._traversal' loaded from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_traversal.cp312-win_amd64.pyd'
+# extension module 'scipy.sparse.csgraph._traversal' executed from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_traversal.cp312-win_amd64.pyd'
+import 'scipy.sparse.csgraph._traversal' # <_frozen_importlib_external.ExtensionFileLoader object at 0x000002BCF1B0AE10>
+
+Last progress: 0s ago

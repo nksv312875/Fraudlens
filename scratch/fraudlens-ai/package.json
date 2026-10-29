@@ -1,0 +1,11 @@
+{
+  "name": "fraudlens-ai",
+  "version": "1.2.0",
+  "private": true,
+  "description": "FraudLens AI - Explainable Financial Risk & Fraud Analytics",
+  "scripts": {
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "preview": "npm --prefix frontend run preview"
+  }
+}

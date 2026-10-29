@@ -1,0 +1,4 @@
+Command exited with code 1.
+
+Command output:
+      0 [main] pacman (32260) C:\msys64\usr\bin\pacman.exe: *** fatal error - NtCreateDirectoryObject(\BaseNamedObjects\msys-2.0S5-dd50a72ab4668b33): 0xC0000022

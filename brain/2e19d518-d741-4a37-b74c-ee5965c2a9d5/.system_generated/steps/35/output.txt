@@ -1,0 +1,15 @@
+Command exited with code 0.
+
+Command output:
+
+Name              FullName                                                                             
+----              --------                                                                             
+agy-node.cmd      C:\Users\S Nandhakumar\AppData\Roaming\Antigravity\bin\agy-node.cmd                  
+app.asar.unpacked C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\app.asar.unpacked
+bin               C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\bin              
+app-update.yml    C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\app-update.yml   
+app.asar          C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\app.asar         
+default_app.asar  C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\default_app.asar 
+elevate.exe       C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\elevate.exe      
+
+

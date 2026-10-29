@@ -1,0 +1,5 @@
+Command exited with code 0.
+
+Command output:
+Dataset generated with 2474 transactions. Total fraud: 78 (3.15%)
+Saved to: data/synthetic_transactions.csv

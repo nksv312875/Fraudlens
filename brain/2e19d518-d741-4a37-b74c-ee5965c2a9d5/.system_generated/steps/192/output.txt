@@ -1,0 +1,13 @@
+Task: 2e19d518-d741-4a37-b74c-ee5965c2a9d5/task-173
+Status: RUNNING
+Log: file:///C:/Users/S%20Nandhakumar/.gemini/antigravity/brain/2e19d518-d741-4a37-b74c-ee5965c2a9d5/.system_generated/tasks/task-173.log
+Log output:
+<truncated 2853 lines>
+# extension module 'scipy.sparse.csgraph._matching' executed from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_matching.cp312-win_amd64.pyd'
+import 'scipy.sparse.csgraph._matching' # <_frozen_importlib_external.ExtensionFileLoader object at 0x000002BCF1B0BFB0>
+# extension module 'scipy.sparse.csgraph._reordering' loaded from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_reordering.cp312-win_amd64.pyd'
+# extension module 'scipy.sparse.csgraph._reordering' executed from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_reordering.cp312-win_amd64.pyd'
+import 'scipy.sparse.csgraph._reordering' # <_frozen_importlib_external.ExtensionFileLoader object at 0x000002BCF1B20320>
+import 'scipy.sparse.csgraph' # <_frozen_importlib_external.SourceFileLoader object at 0x000002BCF1B09910>
+
+Last progress: 0s ago

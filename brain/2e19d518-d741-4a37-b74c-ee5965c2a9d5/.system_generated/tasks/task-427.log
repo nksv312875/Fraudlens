@@ -1,0 +1,18 @@
+
+> fraudlens-ai-frontend@1.2.0 build
+> tsc && vite build
+
+vite v5.4.21 building for production...
+transforming...
+✓ 1595 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   1.20 kB │ gzip:   0.70 kB
+dist/assets/index-G_S3VRqG.css   30.29 kB │ gzip:   5.93 kB
+dist/assets/index-0V_IabHt.js   706.61 kB │ gzip: 214.02 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 6.30s

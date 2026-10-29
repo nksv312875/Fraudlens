@@ -1,0 +1,16 @@
+Command exited with code 0.
+
+Command output:
+C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\ml\train.py:133: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "evaluation_timestamp": datetime.utcnow().isoformat(),
+C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\ml\train.py:173: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "trained_date": datetime.utcnow().isoformat(),
+[1/6] Loaded 2474 transactions. Total fraud: 78 (3.15%)
+[2/6] Chronological Split: Train=1731 (fraud=53), Val=371 (fraud=10), Test=372 (fraud=15)
+[3/6] Fitted Baseline (LogisticRegression) and Champion (HistGradientBoostingClassifier).
+[4/6] Tuned Thresholds on Validation set: tau_low=0.14, tau_high=0.4 (Val F1=1.0000)
+[5/6] Held-out Evaluation Results:
+      Champion Model: Precision=0.9375, Recall=1.0000, F1=0.9677, ROC-AUC=1.0000
+      Baseline Model: Precision=0.8235, Recall=0.9333, F1=0.8750, ROC-AUC=0.9976
+      Precision @ Top 20 Capacity: 75.0%
+[6/6] Saved trained artifacts to C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\model_store/

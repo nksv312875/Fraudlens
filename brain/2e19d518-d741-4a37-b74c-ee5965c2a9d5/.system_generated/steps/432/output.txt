@@ -1,0 +1,12 @@
+Command exited with code 1.
+
+Command output:
+API Health:
+HTML Preview:
+You cannot call a method on a null-valued expression.
+At line:1 char:593
++ ...  Preview:"; Write-Output $html.Substring(0, [Math]::Min(150, $html.Le ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [], RuntimeException
+    + FullyQualifiedErrorId : InvokeMethodOnNull
+ 

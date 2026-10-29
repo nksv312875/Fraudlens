@@ -1,0 +1,4 @@
+Command exited with code 0.
+
+Command output:
+C:\msys64\ucrt64\bin\python.exe 3.14.7 (main, Aug  8 2026, 21:15:19)  [MINGW GCC UCRT 16.2.0 64 bit (AMD64)]

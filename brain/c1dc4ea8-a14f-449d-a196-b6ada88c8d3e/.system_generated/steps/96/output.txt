@@ -1,0 +1,11 @@
+Command exited with code 1.
+
+Command output:
+npm : The term 'npm' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:137
++ ... PPDATA; Get-Command vercel -ErrorAction SilentlyContinue; npm list -g ...
++                                                               ~~~
+    + CategoryInfo          : ObjectNotFound: (npm:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 

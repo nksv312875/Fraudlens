@@ -1,0 +1,12 @@
+Command exited with code 1.
+
+Command output:
+Program 'winget.exe' failed to run: The file cannot be accessed by the systemAt line:1 char:87
++ ... v:_TMP; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; winget --version 2>&1
++                                                     ~~~~~~~~~~~~~~~~~~~~~.
+At line:1 char:87
++ ... v:_TMP; $env:LOCALAPPDATA = $env:_LOCALAPPDATA; winget --version 2>&1
++                                                     ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ResourceUnavailable: (:) [], ApplicationFailedException
+    + FullyQualifiedErrorId : NativeCommandFailed
+ 

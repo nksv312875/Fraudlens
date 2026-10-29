@@ -1,0 +1,151 @@
+Command exited with code 0.
+
+Command output:
+
+Path                                                     
+----                                                     
+C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\S 
+                    Nandhakumar\AppData\Local\Programs\antigravity\locales
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity
+PSChildName       : locales
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : locales
+FullName          : C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\locales
+Parent            : antigravity
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 29-10-2026 18:14:59
+CreationTimeUtc   : 29-10-2026 12:44:59
+LastAccessTime    : 29-10-2026 18:15:00
+LastAccessTimeUtc : 29-10-2026 12:45:00
+LastWriteTime     : 29-10-2026 18:15:00
+LastWriteTimeUtc  : 29-10-2026 12:45:00
+Attributes        : Directory, Archive
+Mode              : da----
+BaseName          : locales
+Target            : {}
+LinkType          : 
+
+
+PSPath            : Microsoft.PowerShell.Core\FileSystem::C:\Users\S 
+                    Nandhakumar\AppData\Local\Programs\antigravity\resources
+PSParentPath      : Microsoft.PowerShell.Core\FileSystem::C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity
+PSChildName       : resources
+PSDrive           : C
+PSProvider        : Microsoft.PowerShell.Core\FileSystem
+PSIsContainer     : True
+Name              : resources
+FullName          : C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources
+Parent            : antigravity
+Exists            : True
+Root              : C:\
+Extension         : 
+CreationTime      : 29-10-2026 18:15:00
+CreationTimeUtc   : 29-10-2026 12:45:00
+LastAccessTime    : 29-10-2026 18:15:05
+LastAccessTimeUtc : 29-10-2026 12:45:05
+LastWriteTime     : 29-10-2026 18:15:05
+LastWriteTimeUtc  : 29-10-2026 12:45:05
+Attributes        : Directory, Archive
+Mode              : da----
+BaseName          : resources
+Target            : {}
+LinkType          : 
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 245737472
+Name          : Antigravity.exe
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 719654
+Name          : chrome_100_percent.pak
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 1269017
+Name          : chrome_200_percent.pak
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 4741488
+Name          : d3dcompiler_47.dll
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 25745408
+Name          : dxcompiler.dll
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 1509760
+Name          : dxil.dll
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 3113472
+Name          : ffmpeg.dll
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 10876560
+Name          : icudtl.dat
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 1096
+Name          : LICENSE.electron.txt
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 20472830
+Name          : LICENSES.chromium.html
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 12435875
+Name          : resources.pak
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 368768
+Name          : snapshot_blob.bin
+
+
+LastWriteTime : 29-10-2026 02:35:38
+Length        : 174286
+Name          : Uninstall Antigravity.exe
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 742200
+Name          : v8_context_snapshot.bin
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 6
+Name          : version
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 5520384
+Name          : vk_swiftshader.dll
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 106
+Name          : vk_swiftshader_icd.json
+
+
+LastWriteTime : 29-10-2026 02:35:32
+Length        : 939520
+Name          : vulkan-1.dll
+
+
+

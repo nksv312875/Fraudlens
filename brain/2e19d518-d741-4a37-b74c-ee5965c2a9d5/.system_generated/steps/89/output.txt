@@ -1,0 +1,19 @@
+Task: 2e19d518-d741-4a37-b74c-ee5965c2a9d5/task-56
+Status: RUNNING
+Log: file:///C:/Users/S%20Nandhakumar/.gemini/antigravity/brain/2e19d518-d741-4a37-b74c-ee5965c2a9d5/.system_generated/tasks/task-56.log
+Log output:
+<truncated 96 lines>
+md64.whl (36.7 MB)
+   ---------------------------------------- 36.7/36.7 MB 3.1 MB/s eta 0:00:00
+Downloading starlette-1.10.0-py3-none-any.whl (80 kB)
+Downloading threadpoolctl-3.7.0-py3-none-any.whl (26 kB)
+Downloading typing_extensions-4.16.0-py3-none-any.whl (45 kB)
+Downloading typing_inspection-0.4.4-py3-none-any.whl (14 kB)
+Downloading tzdata-2026.6-py2.py3-none-any.whl (348 kB)
+Downloading anyio-4.15.1-py3-none-any.whl (132 kB)
+Downloading cloudpickle-3.1.2-py3-none-any.whl (22 kB)
+Downloading six-1.17.0-py2.py3-none-any.whl (11 kB)
+Downloading idna-3.20-py3-none-any.whl (69 kB)
+Installing collected packages: tzdata, typing-extensions, threadpoolctl, six, python-multipart, pygments, pluggy, packaging, numpy, networkx, narwhals, iniconfig, idna, h11, colorama, cloudpickle, click, annotated-types, annotated-doc, uvicorn, typing-inspection, scipy, python-dateutil, pytest, pydantic-core, opentelemetry-api, joblib, anyio, starlette, scikit-learn, pydantic, pandas, fastapi
+
+Last progress: 36s ago

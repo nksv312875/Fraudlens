@@ -1,0 +1,22 @@
+Command exited with code 0.
+
+Command output:
+  % Total    % Received % Xferd  Average Speed  Time    Time    Time   Current
+                                 Dload  Upload  Total   Spent   Left   Speed
+  0      0   0      0   0      0      0      0                              0  0 28.23M   0      0   0      0      0      0                              0  0 28.23M   0      0   0      0      0      0                              0  0 28.23M   0      0   0      0      0      0                              0
+HTTP/1.1 200 OK
+Date: Thu, 29 Oct 2026 13:27:37 GMT
+Content-Type: application/zip
+Content-Length: 29602979
+Connection: keep-alive
+CF-Cache-Status: HIT
+Accept-Ranges: bytes
+Age: 67053
+Cache-Control: public, immutable, max-age=31536000, s-maxage=31536000
+ETag: "9134671c316c897bd433c419cfb7228e"
+Last-Modified: Thu, 03 Oct 2024 06:26:42 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: a52284c8b9d89d73-MAA
+

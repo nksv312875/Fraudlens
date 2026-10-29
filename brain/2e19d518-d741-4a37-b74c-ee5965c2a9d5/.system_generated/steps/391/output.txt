@@ -1,0 +1,17 @@
+Command exited with code 0.
+
+Command output:
+v20.18.0
+10.8.2
+
+added 139 packages, and audited 140 packages in 8s
+
+26 packages are looking for funding
+  run `npm fund` for details
+
+2 vulnerabilities (1 moderate, 1 high)
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.

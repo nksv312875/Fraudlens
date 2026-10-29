@@ -1,0 +1,16 @@
+Command exited with code 0.
+
+Command output:
+
+
+    Directory: C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----        29-10-2026     18:58                backend                                                              
+d-----        29-10-2026     18:58                data                                                                 
+d-----        29-10-2026     18:58                frontend                                                             
+d-----        29-10-2026     18:58                model_store                                                          
+
+

@@ -1,0 +1,12 @@
+Task: 2e19d518-d741-4a37-b74c-ee5965c2a9d5/task-173
+Status: RUNNING
+Log: file:///C:/Users/S%20Nandhakumar/.gemini/antigravity/brain/2e19d518-d741-4a37-b74c-ee5965c2a9d5/.system_generated/tasks/task-173.log
+Log output:
+<truncated 2680 lines>
+r\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\interpolate\__pycache__\_rbfinterp_np.cpython-312.pyc matches C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\interpolate\_rbfinterp_np.py
+# code object from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_rbfinterp_np.cpython-312.pyc'
+# C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\interpolate\__pycache__\_rbfinterp_common.cpython-312.pyc matches C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\scipy\interpolate\_rbfinterp_common.py
+# code object from 'C:\\Users\\S Nandhakumar\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\scipy\\interpolate\\__pycache__\\_rbfinterp_common.cpython-312.pyc'
+import 'scipy.interpolate._rbfinterp_common' # <_frozen_importlib_external.SourceFileLoader object at 0x000002BCF17E7F50>
+
+Last progress: 0s ago

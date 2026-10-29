@@ -1,0 +1,94 @@
+Command exited with code 0.
+
+Command output:
+============================= test session starts =============================
+platform win32 -- Python 3.12.10, pytest-9.2.0, pluggy-1.7.0 -- C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend
+plugins: anyio-4.15.1
+collecting ... collected 11 items
+
+tests/test_api_and_ml.py::test_health_check_endpoint PASSED              [  9%]
+tests/test_api_and_ml.py::test_overview_statistics PASSED                [ 18%]
+tests/test_api_and_ml.py::test_queue_filtering_and_sorting PASSED        [ 27%]
+tests/test_api_and_ml.py::test_demo_case_a_legitimate_unusual PASSED     [ 36%]
+tests/test_api_and_ml.py::test_demo_case_b_account_takeover PASSED       [ 45%]
+tests/test_api_and_ml.py::test_demo_case_c_graph_syndicate PASSED        [ 54%]
+tests/test_api_and_ml.py::test_counterfactual_simulator PASSED           [ 63%]
+tests/test_api_and_ml.py::test_feedback_submission_and_override PASSED   [ 72%]
+tests/test_api_and_ml.py::test_queue_simulation_capacity PASSED          [ 81%]
+tests/test_api_and_ml.py::test_behavioral_change_detector PASSED         [ 90%]
+tests/test_api_and_ml.py::test_real_time_prediction PASSED               [100%]
+
+============================== warnings summary ===============================
+app\schemas\transactions.py:9
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:9: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    transaction_id: str = Field(..., example="TXN-NEW-9001")
+
+app\schemas\transactions.py:10
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:10: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    account_id: str = Field(..., example="ACC-1045")
+
+app\schemas\transactions.py:11
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:11: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    amount: float = Field(..., gt=0, example=450.00)
+
+app\schemas\transactions.py:12
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:12: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    currency: str = Field(default="USD", example="USD")
+
+app\schemas\transactions.py:13
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:13: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    merchant_id: Optional[str] = Field(default="MER-GEN-100", example="MER-ELE-105")
+
+app\schemas\transactions.py:14
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:14: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    merchant_category: str = Field(default="grocery", example="electronics")
+
+app\schemas\transactions.py:15
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:15: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    device_id: Optional[str] = Field(default="DEV-DEFAULT", example="DEV-ANOM-99")
+
+app\schemas\transactions.py:16
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:16: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    ip_address: Optional[str] = Field(default="198.51.100.1", example="203.0.113.199")
+
+app\schemas\transactions.py:17
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:17: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    location_country: Optional[str] = Field(default="US", example="US")
+
+app\schemas\transactions.py:18
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:18: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    account_age_days: Optional[int] = Field(default=90, example=120)
+
+app\schemas\transactions.py:19
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:19: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    failed_attempts_last_24h: Optional[int] = Field(default=0, example=2)
+
+app\schemas\transactions.py:56
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:56: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    decision: str = Field(..., example="confirmed_fraud") # confirmed_fraud, legitimate, inconclusive, escalated
+
+app\schemas\transactions.py:57
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\schemas\transactions.py:57: PydanticDeprecatedSince20: Using extra keyword arguments on `Field` is deprecated and will be removed. Use `json_schema_extra` instead. (Extra keys: 'example'). Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    reviewer_name: str = Field(..., example="Lead Investigator")
+
+tests/test_api_and_ml.py::test_counterfactual_simulator
+tests/test_api_and_ml.py::test_real_time_prediction
+  C:\Users\S Nandhakumar\AppData\Local\Programs\Python\Python312\Lib\site-packages\sklearn\utils\validation.py:2830: UserWarning: X does not have valid feature names, but StandardScaler was fitted with feature names
+    warnings.warn(
+
+tests/test_api_and_ml.py::test_feedback_submission_and_override
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\db\repository.py:111: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    now = datetime.utcnow().isoformat()
+
+tests/test_api_and_ml.py::test_real_time_prediction
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\api\endpoints.py:200: PydanticDeprecatedSince20: The `dict` method is deprecated; use `model_dump` instead. Deprecated in Pydantic V2.0 to be removed in V3.0. See Pydantic V2 Migration Guide at https://errors.pydantic.dev/2.14/migration/
+    raw_dict = payload.dict()
+
+tests/test_api_and_ml.py::test_real_time_prediction
+  C:\Users\S Nandhakumar\.gemini\antigravity\scratch\fraudlens-ai\backend\app\api\endpoints.py:202: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+    raw_dict["timestamp"] = datetime.utcnow().isoformat()
+
+-- Docs: https://docs.pytest.org/en/stable/how-to/capture-warnings.html
+======================= 11 passed, 18 warnings in 3.23s =======================

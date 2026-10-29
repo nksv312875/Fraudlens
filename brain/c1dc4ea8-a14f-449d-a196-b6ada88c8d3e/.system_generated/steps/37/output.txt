@@ -1,0 +1,11 @@
+Command exited with code 0.
+
+Command output:
+
+CommandType     Name                                               Version    Source                                   
+-----------     ----                                               -------    ------                                   
+Application     python3.exe                                        3.14.71... C:\msys64\ucrt64\bin\python3.exe         
+Application     python.exe                                         3.14.71... C:\msys64\ucrt64\bin\python.exe          
+Application     py.exe                                             3.14.71... C:\Users\S Nandhakumar\AppData\Local\P...
+
+

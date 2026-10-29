@@ -1,0 +1,44 @@
+{
+  "version": "v1.2.0-champion",
+  "trained_date": "2026-10-29T13:41:37.982579",
+  "train_samples": 1735,
+  "feature_columns": [
+    "amount",
+    "log_amount",
+    "amount_to_hist_avg",
+    "account_age_days",
+    "failed_attempts_last_24h",
+    "is_foreign_country",
+    "merchant_category_risk",
+    "device_reuse_count",
+    "is_device_new_to_account",
+    "tx_frequency_1h",
+    "burst_amount_1h"
+  ],
+  "feature_means": {
+    "amount": 59.63635158501442,
+    "log_amount": 3.8335962436936515,
+    "amount_to_hist_avg": 1.114165417867435,
+    "account_age_days": 624.1878962536023,
+    "failed_attempts_last_24h": 0.08703170028818444,
+    "is_foreign_country": 0.029971181556195964,
+    "merchant_category_risk": 0.21880691642651295,
+    "device_reuse_count": 1.1031700288184438,
+    "is_device_new_to_account": 0.0622478386167147,
+    "tx_frequency_1h": 0.08011527377521614,
+    "burst_amount_1h": 3.9266340057636895
+  },
+  "feature_stds": {
+    "amount": 65.46704295534747,
+    "log_amount": 0.6837800913815091,
+    "amount_to_hist_avg": 1.1427727495328937,
+    "account_age_days": 324.0099962397728,
+    "failed_attempts_last_24h": 0.4016236594581926,
+    "is_foreign_country": 0.17050779991637188,
+    "merchant_category_risk": 0.2125801836405706,
+    "device_reuse_count": 1.089253919328821,
+    "is_device_new_to_account": 0.2416051431659975,
+    "tx_frequency_1h": 0.2756851323293679,
+    "burst_amount_1h": 16.084315738081674
+  }
+}

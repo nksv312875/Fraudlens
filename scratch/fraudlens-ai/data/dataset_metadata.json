@@ -1,0 +1,18 @@
+{
+  "dataset_name": "FraudLens AI Benchmark Synthetic Dataset v1.0",
+  "total_records": 2479,
+  "fraud_records": 78,
+  "fraud_rate": 0.0315,
+  "time_start": "2026-09-25T22:25:42",
+  "time_end": "2026-10-05T21:58:42",
+  "unique_accounts": 255,
+  "unique_devices": 269,
+  "unique_merchants": 90,
+  "demo_cases": [
+    "TXN-DEMO-A101",
+    "TXN-DEMO-B202",
+    "TXN-DEMO-C301",
+    "TXN-DEMO-C302",
+    "TXN-DEMO-C303"
+  ]
+}

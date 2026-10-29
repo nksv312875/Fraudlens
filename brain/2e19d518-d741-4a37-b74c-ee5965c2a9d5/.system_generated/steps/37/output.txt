@@ -1,0 +1,17 @@
+Command exited with code 0.
+
+Command output:
+@echo off
+set ELECTRON_RUN_AS_NODE=1
+"C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\Antigravity.exe" %*
+
+
+    Directory: C:\Users\S Nandhakumar\AppData\Local\Programs\antigravity\resources\bin
+
+
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+-a----        29-10-2026     02:35      182867968 language_server.exe                                                  
+-a----        29-10-2026     02:35       13393920 webm_encoder.exe                                                     
+
+

@@ -1,0 +1,11 @@
+Command exited with code 0.
+
+Command output:
+
+Name     
+----     
+Launcher 
+Python312
+Python314
+
+

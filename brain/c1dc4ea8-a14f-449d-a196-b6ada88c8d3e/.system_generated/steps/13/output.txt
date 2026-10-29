@@ -1,0 +1,10 @@
+Command exited with code 1.
+
+Command output:
+python : C:\msys64\ucrt64\bin\python.exe: No module named pytest
+At line:1 char:165
++ ... cratch\fraudlens-ai\backend"; python -m pytest tests/ -v 2>&1 | Selec ...
++                                   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (C:\msys64\ucrt6...le named pytest:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
